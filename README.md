@@ -1,1 +1,1 @@
-# amart-farming-system
+# smart-farming-system
